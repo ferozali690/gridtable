@@ -1,0 +1,33 @@
+.login-container {
+  width: 500px;
+  margin: 200px auto;
+  text-align: center;
+}
+
+form {
+  margin-top: 15px;
+}
+
+input[type="email"] {
+  margin-bottom: 10px;
+  height: 26px;
+}
+
+input#myPass {
+  height: 26px;
+  margin-left: 5px;
+}
+button {
+  width: 65px;
+  height: 25px;
+
+  margin-left: 55px;
+  margin-top: 20px;
+  margin-left: 100px;
+}
+
+label {
+  font-weight: bold;
+  margin: 10px;
+  font-size: 25px;
+}
